@@ -157,6 +157,7 @@ python scripts/get_vendor_summary.py
 
 **J KARTHIK REDDY**  
 Data Analyst  
-📞 Phone: 9346636741  
+📧 Email: kaatheekreddy9@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/j-karthik-reddy-930327189) 
   
 
